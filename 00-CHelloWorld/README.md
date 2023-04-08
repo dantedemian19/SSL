@@ -5,7 +5,7 @@
 
 ## Compilardor 
 
-Microsoft Visual C and C++ (MSVC)  ([link](https://visualstudio.microsoft.com/downloads/#:~:text=Build%20Tools%20for%20Visual%20Studio%202022))   (Version: Latest)
+Microsoft Visual C and C++ (MSVC)  ([link](https://visualstudio.microsoft.com/downloads/#:~:text=Build%20Tools%20for%20Visual%20Studio%202022))   (Version: 19.34.31933 for x64)
 
 ## Enunciado
  1. Indique en el readme.md el compilador seleccionado. 
